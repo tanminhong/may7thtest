@@ -1,2 +1,3 @@
-# may7thtest
-this is just a test repository to try out github
+# this is a test
+
+lorem ipsum dumm test
